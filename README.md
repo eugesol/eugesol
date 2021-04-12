@@ -1,4 +1,4 @@
-:sparkles: ### Hi :last_quarter_moon_with_face:
+### :sparkles: Hi :last_quarter_moon_with_face:
 
 I'm Eugenia, welcome to my github where most of my code lives. Feel free to have a look around  :star:
 
