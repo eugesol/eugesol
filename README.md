@@ -1,7 +1,7 @@
 ### Hi 👋
-I'm Eugenia, welcome to my github where most of my code lives. Feel free to have a look around 😄
+I'm Eugenia, welcome to my github where most of my code lives. Feel free to have a look around :first_quarter_moon_with_face: :star:
 
-- :smiley_cat: I’m currently working on a webstite for Atlanta Animal Activists :feet: https://github.com/santu14/Atlanta-Animal-Activists
+- :pig: I’m currently working on a webstite for Atlanta Animal Activists :feet: https://github.com/santu14/Atlanta-Animal-Activists
 
 <!--
 **eugesol/eugesol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
