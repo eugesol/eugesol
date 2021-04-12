@@ -1,5 +1,5 @@
-### Hi 👋
-I'm Eugenia, welcome to my github where most of my code lives. Feel free to have a look around :first_quarter_moon_with_face: :star:
+### Hi :first_quarter_moon_with_face:
+I'm Eugenia, welcome to my github where most of my code lives. Feel free to have a look around  :star:
 
 - :pig: I’m currently working on a webstite for Atlanta Animal Activists :feet: https://github.com/santu14/Atlanta-Animal-Activists
 
