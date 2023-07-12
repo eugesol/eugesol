@@ -1,6 +1,6 @@
 ### :sparkles: Hi :last_quarter_moon_with_face:
 
-I'm Eugenia, welcome to my github where most of my code lives. Feel free to have a look around  :star:
+I'm Eugenia, welcome to my github, there's not a lot of my current code here since it all goes to my work repo but you can take a look at some of my older code,  freelance work, and personal projects   :star:
 
 
 
